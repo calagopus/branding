@@ -17,7 +17,7 @@
 | Usecase | HEX | Example |
 | -------- | ------- | ------- |
 | Fox White | #ffffff | ![Fox White](colors/fox_white.svg) |
-| Fox Accent | #d9d9d9 | ![Fox White](colors/fox_accent.svg) |
+| Fox Accent | #b4b4b4 | ![Fox White](colors/fox_accent.svg) |
 | Text Primary | #74c0fc | ![Fox White](colors/text_primary.svg) |
 | Background | #222222 | ![Fox White](colors/background.svg) |
 | Background Accent | #2e2e2e | ![Fox White](colors/background_accent.svg) |
