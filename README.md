@@ -12,12 +12,14 @@
 | ![Calagopus Icon SVG](img/icon.svg) | ![Calagopus Icon PNG](img/icon.png) |
 | ![Badge Made For Calagopus SVG](img/badges/made_for_calagopus.svg) | ![Badge Made For Calagopus PNG](img/badges/made_for_calagopus.png) |
 | ![Badge Supports Calagopus SVG](img/badges/supports_calagopus.svg) | ![Badge Supports Calagopus PNG](img/badges/supports_calagopus.png) |
+| ![Badge Requires Calagopus SVG](img/badges/requires-calagopus.svg) | ![Badge Requires Calagopus PNG](img/badges/requires-calagopus.png) |
 
-# Colors
+## Colors
+
 | Usecase | HEX | Example |
 | -------- | ------- | ------- |
 | Fox White | #ffffff | ![Fox White](colors/fox_white.svg) |
-| Fox Accent | #b4b4b4 | ![Fox White](colors/fox_accent.svg) |
-| Text Primary | #74c0fc | ![Fox White](colors/text_primary.svg) |
-| Background | #222222 | ![Fox White](colors/background.svg) |
-| Background Accent | #2e2e2e | ![Fox White](colors/background_accent.svg) |
+| Fox Accent | #b4b4b4 | ![Fox Accent](colors/fox_accent.svg) |
+| Text Primary | #74c0fc | ![Text Primary](colors/text_primary.svg) |
+| Background | #222222 | ![Background](colors/background.svg) |
+| Background Accent | #2e2e2e | ![Background Accent](colors/background_accent.svg) |
