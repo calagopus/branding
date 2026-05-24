@@ -11,28 +11,24 @@
 
 ### Logos
 
-| SVG | PNG |
+|     |     |
 | --- | --- |
-| ![Calagopus Icon SVG](img/icon.svg) | ![Calagopus Icon PNG](img/icon.png) |
-| ![Sleepy Calagopus with ZZZ SVG](img/sleepy-zzz.svg) | ![Sleepy Calagopus with ZZZ PNG](img/sleepy-zzz.png) |
-| ![Sleepy Calagopus SVG](img/sleepy.svg) | ![Sleepy Calagopus PNG](img/sleepy.png) |
+| ![Calagopus Icon SVG](img/logos/icon.svg) | ![Standing Calagopus SVG](img/logos/standing.svg) |
+| ![Sleepy Calagopus SVG](img/logos/sleepy.svg) | ![Sleepy Calagopus with ZZZ SVG](img/logos/sleepy-zzz.svg) |
 
 ### Banners
 
-| SVG | PNG |
+|     |     |
 | --- | --- |
-| ![Full Logo SVG](img/fulllogo.svg) | ![Full Logo PNG](img/fulllogo.png) |
-| ![Full Logo Vertical SVG](img/fulllogo-vertical.svg) | ![Full Logo Vertical PNG](img/fulllogo-vertical.png) |
-| ![Simple Full Logo SVG](img/simple-fulllogo.svg) | ![Simple Full Logo PNG](img/simple-fulllogo.png) |
-| ![Simple Full Logo Vertical SVG](img/simple-fulllogo-vertical.svg) | ![Simple Full Logo Vertical PNG](img/simple-fulllogo-vertical.png) |
+| ![Full Logo SVG](img/banners/fulllogo.svg) | ![Full Logo Vertical SVG](img/banners/fulllogo-vertical.svg) |
+| ![Simple Full Logo SVG](img/banners/simple-fulllogo.svg) | ![Simple Full Logo Vertical SVG](img/banners/simple-fulllogo-vertical.svg) |
+| ![Simple Standing Full Logo SVG](img/banners/simple-standing-fulllogo.svg) | ![Simple Standing Full Logo Vertical SVG](img/banners/simple-standing-fulllogo-vertical.svg) |
 
 ### Badges
 
-| SVG | PNG |
-| --- | --- |
-| ![Badge Made For Calagopus SVG](img/badges/made_for_calagopus.svg) | ![Badge Made For Calagopus PNG](img/badges/made_for_calagopus.png) |
-| ![Badge Supports Calagopus SVG](img/badges/supports_calagopus.svg) | ![Badge Supports Calagopus PNG](img/badges/supports_calagopus.png) |
-| ![Badge Requires Calagopus SVG](img/badges/requires_calagopus_wide.svg) | ![Badge Requires Calagopus PNG](img/badges/requires_calagopus_wide.png) |
+![Badge Made For Calagopus SVG](img/badges/made_for_calagopus.svg)
+![Badge Supports Calagopus SVG](img/badges/supports_calagopus.svg)
+![Badge Requires Calagopus SVG](img/badges/requires_calagopus_wide.svg)
 
 ## Colors
 
