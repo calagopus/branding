@@ -4,13 +4,15 @@
 
 <https://calagopus.com>
 
+> [!NOTE]  
+> This repository should only be used as reference. Do NOT use for content delivery (CDN). Folder structure may be changed without notice.
+
 ## Images
 
 ### Logos
 
 | SVG | PNG |
 | --- | --- |
-| ![Calagopus Full Logo SVG](img/fulllogo.svg) | ![Calagopus Full Logo PNG](img/fulllogo.png) |
 | ![Calagopus Icon SVG](img/icon.svg) | ![Calagopus Icon PNG](img/icon.png) |
 | ![Sleepy Calagopus with ZZZ SVG](img/sleepy-zzz.svg) | ![Sleepy Calagopus with ZZZ PNG](img/sleepy-zzz.png) |
 | ![Sleepy Calagopus SVG](img/sleepy.svg) | ![Sleepy Calagopus PNG](img/sleepy.png) |
