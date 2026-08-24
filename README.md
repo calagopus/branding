@@ -15,6 +15,7 @@
 | --- | --- |
 | ![Calagopus Icon SVG](img/logos/icon.svg) | ![Standing Calagopus SVG](img/logos/standing.svg) |
 | ![Sleepy Calagopus SVG](img/logos/sleepy.svg) | ![Sleepy Calagopus with ZZZ SVG](img/logos/sleepy-zzz.svg) |
+| ![Stretching Calagopus SVG](img/logos/stretching.svg) | ![Facing Calagopus SVG](img/logos/facing.svg) |
 
 ### Banners
 
@@ -23,6 +24,7 @@
 | ![Full Logo SVG](img/banners/fulllogo.svg) | ![Full Logo Vertical SVG](img/banners/fulllogo-vertical.svg) |
 | ![Simple Full Logo SVG](img/banners/simple-fulllogo.svg) | ![Simple Full Logo Vertical SVG](img/banners/simple-fulllogo-vertical.svg) |
 | ![Simple Standing Full Logo SVG](img/banners/simple-standing-fulllogo.svg) | ![Simple Standing Full Logo Vertical SVG](img/banners/simple-standing-fulllogo-vertical.svg) |
+| ![Simple Stretching Full Logo SVG](img/banners/simple-stretching-fulllogo.svg) | ![Simple Stretching Full Logo Vertical SVG](img/banners/simple-stretching-fulllogo-vertical.svg) |
 
 ### Badges
 
